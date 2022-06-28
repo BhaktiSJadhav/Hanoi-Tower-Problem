@@ -1,3 +1,4 @@
+//cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -15,3 +16,14 @@ int main()
         cout << (n+1)*(n+1)/2-1 << endl;
     }
 }
+
+/*
+Input:-
+2
+4 
+25
+
+Output:-
+11
+337
+*/
